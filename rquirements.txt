@@ -1,0 +1,5 @@
+asyncio==3.4.3
+mysql-connector-python==8.0.20
+protobuf==3.12.2
+python-dotenv==0.13.0
+six==1.15.0
